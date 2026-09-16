@@ -1,0 +1,56 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Alvarado(2026)]{alvarado2026repo}
+Milton Alvarado.
+\newblock slam-doe-vision-retos: Estudios piloto de vision por computador para
+  un marco doe de evaluacion de algoritmos slam, 2026.
+\newblock URL \url{<URL_DEL_REPOSITORIO>}.
+\newblock Repositorio de codigo y datos. Version en preparacion; actualizar URL
+  y version/DOI antes del envio final.
+
+\bibitem[Cadena et~al.(2016)Cadena, Carlone, Carrillo, Latif, Scaramuzza,
+  Neira, Reid, and Leonard]{cadena2016past}
+Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza,
+  Jose Neira, Ian Reid, and John~J. Leonard.
+\newblock Past, present, and future of simultaneous localization and mapping:
+  Toward the robust-perception age.
+\newblock \emph{IEEE Transactions on Robotics}, 32\penalty0 (6):\penalty0
+  1309--1332, 2016.
+\newblock \doi{10.1109/TRO.2016.2624754}.
+
+\bibitem[Gonzalez and Woods(2018)]{gonzalez2018digital}
+Rafael~C. Gonzalez and Richard~E. Woods.
+\newblock \emph{Digital Image Processing}.
+\newblock Pearson, New York, NY, USA, 4th edition, 2018.
+
+\bibitem[Montgomery(2019)]{montgomery2019design}
+Douglas~C. Montgomery.
+\newblock \emph{Design and Analysis of Experiments}.
+\newblock Wiley, 10th edition, 2019.
+
+\bibitem[Mur-Artal and Tard{\'o}s(2017)]{murartal2017orbslam2}
+Raul Mur-Artal and Juan~D. Tard{\'o}s.
+\newblock {ORB-SLAM2}: An open-source {SLAM} system for monocular, stereo, and
+  {RGB-D} cameras.
+\newblock \emph{IEEE Transactions on Robotics}, 33\penalty0 (5):\penalty0
+  1255--1262, October 2017.
+
+\bibitem[Scaramuzza and Fraundorfer(2011)]{scaramuzza2011visualodometry}
+Davide Scaramuzza and Friedrich Fraundorfer.
+\newblock Visual odometry [tutorial].
+\newblock \emph{IEEE Robotics \& Automation Magazine}, 18\penalty0
+  (4):\penalty0 80--92, December 2011.
+
+\bibitem[Wang et~al.(2004)Wang, Bovik, Sheikh, and Simoncelli]{wang2004ssim}
+Zhou Wang, Alan~C. Bovik, Hamid~R. Sheikh, and Eero~P. Simoncelli.
+\newblock Image quality assessment: From error visibility to structural
+  similarity.
+\newblock \emph{IEEE Transactions on Image Processing}, 13\penalty0
+  (4):\penalty0 600--612, April 2004.
+
+\end{thebibliography}
