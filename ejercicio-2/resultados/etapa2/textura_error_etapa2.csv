@@ -1,0 +1,6 @@
+,err_base,err_base,err_best,err_best,n
+,mean,sum,mean,sum,
+tercil_textura,,,,,
+baja,0.2625,21,0.025,2,80
+media,0.2875,23,0.0125,1,80
+alta,0.1,8,0.0125,1,80
